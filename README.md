@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="mailto:shreyasmukadam5@gmail.com" aria-label="Email Shreyas">
-    <img src="https://cdn.simpleicons.org/gmail/FFE1FF" width="34" height="34" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/0shreyas0" aria-label="GitHub profile">
-    <img src="https://cdn.simpleicons.org/github/FFE1FF" width="34" height="34" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/shreyas-mukadam" aria-label="LinkedIn profile">
     <img src="./linkedin.svg" width="34" height="34" alt="LinkedIn"/>
   </a>
+  <a href="https://codolio.com/profile/0shreyas0" aria-label="Codolio profile">
+    <img src="./codolio.svg" width="34" height="34" alt="Codolio"/>
+  </a>
   <a href="https://discord.com/" aria-label="Discord: iiileagueiii" title="Discord: iiileagueiii">
-    <img src="https://cdn.simpleicons.org/discord/FFE1FF" width="34" height="34" alt="Discord"/>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="34" height="34" alt="Discord"/>
   </a>
 </p>
 
