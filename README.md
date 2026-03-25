@@ -14,7 +14,7 @@
   <a href="mailto:shreyasmukadam5@gmail.com" aria-label="Email Shreyas">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/shreyas-mukadam" aria-label="LinkedIn profile">
+  <a href="https://www.linkedin.com/in/shreyasmukadam" aria-label="LinkedIn profile">
     <img src="./linkedin.svg" width="34" height="34" alt="LinkedIn"/>
   </a>
   <a href="https://codolio.com/profile/0shreyas0" aria-label="Codolio profile">
