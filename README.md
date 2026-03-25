@@ -39,7 +39,7 @@
 
 Computer Engineering undergrad at **Thadomal Shahani Engineering College**.
 
-I build things that work in production: full-stack web platforms, cross-platform mobile apps, and have fun with game engines.
+I build things that work in production: full-stack web platforms, cross-platform mobile apps.
 
 Fast at scope → ship. Comfortable across the stack.
 
