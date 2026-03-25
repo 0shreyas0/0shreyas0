@@ -43,6 +43,13 @@ I build things that work in production: full-stack web platforms, cross-platform
 
 Fast at scope → ship. Comfortable across the stack.
 
+Currently working on:
+Currently working on:
+<ul>
+  <li><a href="https://github.com/0shreyas0/digital-ledger">Digital Ledger</a></li>
+  <li><a href="https://github.com/0shreyas0/dhanvantari">Dhanvantari</a></li>
+</ul>
+
 </td>
 <td width="45%" valign="top" align="center">
 
