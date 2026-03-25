@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:884DFF,50:C55FFF,100:FFE1FF&height=100&section=header" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ultra&duration=0.00001&color=F7F7F7&repeat=false&width=600&size=50&center=true&vCenter=true&lines=Shreyas+Mukadam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ultra&duration=0.00001&color=F7F7F7&repeat=false&width=600&size=40&center=true&vCenter=true&lines=Shreyas+Mukadam" />
 </p>
 
 <img src="./gooey-subtitle.svg" width="100%" alt="Animated gooey subtitle" />
