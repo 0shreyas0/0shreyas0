@@ -41,8 +41,6 @@ Computer Engineering undergrad at **Thadomal Shahani Engineering College**.
 
 I build things that work in production: full-stack web platforms, cross-platform mobile apps.
 
-Fast at scope → ship. Comfortable across the stack.
-
 Currently working on:
 <ul>
   <li><a href="https://github.com/0shreyas0/digital-ledger">Digital Ledger</a></li>
